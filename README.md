@@ -4,4 +4,4 @@
 
 The official reference and community hub for the D.R.E.A.M.S. Score Network
 
-#### Please use [this link](wiki) to view the full Help Docs and Issue Tracker!
+#### Please use [this link](https://github.com/serikmcc-dev/D.R.E.A.M.S.-Wiki/wiki) to view the full Help Docs and Issue Tracker!
